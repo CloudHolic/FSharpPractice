@@ -1,4 +1,4 @@
-﻿module Basic
+﻿namespace Basic
 
 module BasicFunctions =
     let sampleFunction1 x = x * x + 3
